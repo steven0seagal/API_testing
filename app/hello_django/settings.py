@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'news',
     'rest_framework',
     'maintenance_mode',
+    'drf',
 ]
 
 MIDDLEWARE = [
